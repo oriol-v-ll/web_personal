@@ -84,15 +84,17 @@ body{
 #LogoImage{
 	margin: 0px 0px;
 	padding: 0px 0px;
-	width: 375px;
+	width: 90px;
 	height: 75px;
 	position: absolute;
 	top: 15px;
 	left: 25px;
+	/*background-color: blue;*/
 }
+
 #espaciador{
 
-	width: 400px;
+	width: 150px;
 	height: 0px;
 	
 }

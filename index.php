@@ -1,13 +1,9 @@
-<!-- Documento PHP principal de la web www.cabesafamily.es
-
-
-@autor: Albert Gené Fernández
-@email: agene@maxitelco.com
+<!-- Document PHP principal de la web www.oriolvillanova.com
 
 @autor: Oriol Villanova LLorens
 @email: oriol.villanova@estudiants.urv.cat
 
-principal.php v1.4
+index.php v1.4
 -->
 
 <!DOCTYPE html>
@@ -34,19 +30,14 @@ principal.php v1.4
 		<ul>
 			<li class='profile'>
 			
-			<a class='menu' href='https://www.instagram.com/albert_g_3d/'>
-			<span>Instagram</span>
-			</a>
-			
-			
 			
 			</li>
-			<li class="Logo" ><a href='index.php'><img id="LogoImage" src="Imagenes/logo.png"></img></a></li>
+			<li class="Logo" ><a href='index.php'><img id="LogoImage" src="Imagenes/logo.png"></img> </a></li>
 			<li class="Logo" ><div id="espaciador" ></div></li>
-			<li class='active'><a class='menu' href='#'><span>Inicio</span></a></li>
-			<li><a class='menu' href='portfolio.php'><span>Portfolio</span></a></li>
-			<li><a class='menu' href='#'><span>¿Quién soy?</span></a></li>
-			<li class='last'><a class='menu' href='#'><span>Contacto</span></a></li>
+			<li class='active'><a class='menu' href='index.php'><span>Inici</span></a></li>
+			<li><a class='menu' href='autor.php'><span>Currículum</span></a></li>
+			<li><a class='menu' href='mas_sobre_mi.php'><span>Més sobre mi</span></a></li>
+			<li class='last'><a class='menu' href='contacto.php'><span>Contacto</span></a></li>
 			
 			
 		   
@@ -74,8 +65,8 @@ principal.php v1.4
 	
 	
 	
-	<footer>
-		<!--<p class="parrafos">Pagina work in progress...</p>-->
+<footer>
+		<p class="parrafos">Oriol Villanova Llorens | www.oriolvillanova.com &copy; </p>
 </footer>
 	
 	
