@@ -3,7 +3,7 @@
 @autor: Oriol Villanova LLorens
 @email: oriol.villanova@estudiants.urv.cat
 
-index.php v1.4
+index.php v1.2
 -->
 
 <!DOCTYPE html>

@@ -44,15 +44,74 @@ mas_sobre_mi.php v1.0
 		</ul>
 	</div>
 	
-	<br><br><br><br>
+	<br><br><br><br><br><br>
 	<div id="EspaciadorLogin"></div>
-	
 	<!--######-####-######-->
 	<table id="principal">
 	<tbody>
 	<tr>
 	<td id="left">
-		<img id="WIP" src="Imagenes/WIP.jpg"></img>
+
+	<!--Codi principal amb el contingut de la pagina-->
+		<ul>
+			<li>
+				<section>
+				<header>
+					<h2>Llenguatges de programació:</h2>
+				</header>
+					<br>
+						Experiència a nivell bàsic en:
+						<ul>
+							<li>
+								HTML 5 / JavaScript / CSS
+							</li>
+							<li>
+								Matlab 
+							</li>
+							<li>
+								C 
+							</li>
+
+						</ul>
+						<br>
+						Experiència a nivell avançat:
+						<ul>
+							<li>
+								Java (Aplicacions d'escriptori i mòbils)
+							</li>
+						</ul>
+
+					<br>
+
+			</section>
+
+			</li>
+			<li>
+				<section>
+					
+					<header>
+						<h2>
+							Codi open source de la pàgina web oriolvillanova.com
+						</h2>
+					</header>
+
+					<br>
+
+					<ul>
+						<li>
+							Tot el codi de la pàgina web està disponible a travès d'aquest repositori i es pot utilitzar a lliure disposició:
+							<br>
+							<a href="https://github.com/oriol-v-ll/web_personal.git" target="_blank">
+								https://github.com/oriol-v-ll/web_personal.git
+							</a>
+							
+						</li>
+					</ul>
+				</section>
+			</li>
+
+
+		</ul>
 			
 	</td>
 	<td id="right">

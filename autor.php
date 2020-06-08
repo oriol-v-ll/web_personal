@@ -46,7 +46,7 @@ autor.php v1.4
 		</ul>
 	</div>
 	
-	<br><br><br><br><br><br><br><br>
+	<br><br><br><br><br><br>
 	<div id="EspaciadorLogin"></div>
 	
 	<!--######-####-######-->
@@ -77,7 +77,7 @@ autor.php v1.4
 							Del 10-7-2017 fins 31-8-2017.Peó en Carbonell Figueras.
 						</li>
 						<li>
-							Del 1-7-2018 hasta 31-8-2018. Ajudant d'albañil en Carbonell Figueras.
+							Del 1-7-2018 hasta 31-8-2018. Ajudant d'albanyil en Carbonell Figueras.
 						</li>
 						<li>
 							Del 9-7-2019 hasta 31-9-2019. Oficial de 3a en el departament de Telecomunicaciones de IYMESA.
@@ -96,7 +96,7 @@ autor.php v1.4
 					Bachillerat en LaSalleTarragona
 				</li>
 				<li>
-					Cursant actualment el Grau en Enginyeria de sistemes y sereis de Telecomunicacions en la URV. 
+					Cursant actualment el Grau en Enginyeria de sistemes y serveis de Telecomunicacions en la URV. 
 				</li>
 			</ol>
 			</section>
@@ -104,11 +104,11 @@ autor.php v1.4
 		<li>
 			<section>
 				<header>
-					<h2>Formación complementaria</h2>
+					<h2>Formació complementaria</h2>
 				</header>
 				<ol>
 					<li>
-						TPC 6h en prevenció de riscos laborals en la construcció en electricidad.
+						TPC 6h en prevenció de riscos laborals en la construcció en electricitat.
 					</li>
 					<li>
 						Segon cicle de formació 20h.
@@ -120,7 +120,7 @@ autor.php v1.4
 			<section>
 				<header>
 					<h2>
-						Informática/Idiomas/Otros datos 
+						Informática/Idiomes/Altres dades
 					</h2>
 				</header>
 
@@ -152,7 +152,7 @@ autor.php v1.4
 	
 	
 <footer>
-		<p class="parrafos">Oriol Villanova Llorens | www.oriolvillanova.com &copy; </p>
+		<p>Oriol Villanova Llorens | www.oriolvillanova.com &copy; </p>
 </footer>
 	
 	

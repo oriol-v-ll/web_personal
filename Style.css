@@ -1,5 +1,20 @@
+/*
+	Style.css per a la web oriolvillanova.com 
+
+	Desenvolupament en conjunt amb agene per a la web cabesafamily.es
+	
+
+*/
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
+
+/*Clase que solo se aplica en los elementos que tengan un párrafo */
+p.parrafos{
+	color: black;
+	font-size: small;
+}
 
 
 .Admin{
