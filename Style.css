@@ -9,11 +9,23 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
 
+#foto_perf{
+
+	height: 50%;
+	width: 50%;
+	position: relative;
+	margin-left: 50px;
+	padding: 5% 5%;
+	border-radius:15%;
+	text-align: center;
+	margin-top: 50px;
+}
 
 /*Clase que solo se aplica en los elementos que tengan un párrafo */
 p.parrafos{
 	color: black;
 	font-size: small;
+	position: relative;
 }
 
 
@@ -30,29 +42,7 @@ h1{
 	font-style:bold;
 }
 
-#Video-div{
-	
-	width: 700px;
-	height: 500px;
-	text-align: center;
-	text-align:center;
-	
-}
 
-
-
-#video {
-  margin-top:5%;
-  margin-left:30%; /*se le pone 35% porque la parte izquierda es el 70% de la pagina*/
-  width: 100%;
-  height:110%;
-  padding: 5% 5%;
-  border-radius:1%;
-  font-size:100%;
-  color:white;
-  font-weight: bold;
-  background: #A2A0A4; /*Lo he puesto aqui no en colors_viajes pk no iba ahí*/
-}
 
 .bold{
 	font-style:bold;
@@ -412,6 +402,7 @@ footer{
 #left{
 	width:80%;
 	vertical-align:top;
+	margin-left: 5%;
 
 }
 
