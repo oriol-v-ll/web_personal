@@ -9,10 +9,32 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
 
+		.carousel {
+        	position: absolute;
+            width: 200px;
+            height: 200px;
+            right: 5px;
+            margin-top:5px;
+           
+           
+        }
+        #imagen {
+            width: 100px;
+            height: 100px;
+            background-size: cover;
+            overflow: visible;
+
+        }
+		.controles{
+			display:block;
+			text-align:center;
+			
+		}
+
 #foto_perf{
 
-	height: 50%;
-	width: 50%;
+	height: 150px;
+	width: 170px;
 	position: relative;
 	margin-left: 50px;
 	padding: 5% 5%;
@@ -398,6 +420,7 @@ display: block;
 #right{
 	width:20%;
 	vertical-align:top;
+	text-align:center;
 
 }
 

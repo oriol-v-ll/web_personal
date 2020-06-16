@@ -14,24 +14,7 @@ index.php v1.12
 	<link rel="stylesheet" type="text/css" href="Colors.css">
 </head>
 
-	<style type="text/css" media="screen">
-        .carousel {
-        	position: absolute;
-            width: 200px;
-            height: 200px;
-            right: 5px;
-            margin-top:5px;
-           
-           
-        }
-        #imagen {
-            width: 100px;
-            height: 100px;
-            background-size: cover;
-            overflow: visible;
 
-        }
-    </style>
 
 	<!--Funciones de javascript.-->
 
