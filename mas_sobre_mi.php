@@ -3,7 +3,7 @@
 @autor: Oriol Villanova LLorens
 @email: oriol.villanova@estudiants.urv.cat
 
-mas_sobre_mi.php v1.0
+mas_sobre_mi.php v1.2
 -->
 
 <!DOCTYPE html>
@@ -37,7 +37,7 @@ mas_sobre_mi.php v1.0
 			<li ><a class='menu' href='index.php'><span>Inici</span></a></li>
 			<li><a class='menu' href='autor.php'><span>Currículum</span></a></li>
 			<li class='active'><a class='menu' href='mas_sobre_mi.php'><span>Més sobre mi</span></a></li>
-			<li class='last'><a class='menu' href='contacto.php'><span>Contacto</span></a></li>
+			<li class='last'><a class='menu' href='contacto.php'><span>Contacte</span></a></li>
 			
 			
 		   
@@ -123,13 +123,9 @@ mas_sobre_mi.php v1.0
 	</table>
 	
 	
-	
 <footer>
 		<p class="parrafos">Oriol Villanova Llorens | www.oriolvillanova.com &copy; </p>
 </footer>
-	
-	
-	
 	
 </body>
 </html>

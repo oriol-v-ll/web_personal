@@ -37,23 +37,47 @@ contacto.php v1.4
 			<li ><a class='menu' href='index.php'><span>Inici</span></a></li>
 			<li><a class='menu' href='autor.php'><span>Currículum</span></a></li>
 			<li><a class='menu' href='mas_sobre_mi.php'><span>Més sobre mi</span></a></li>
-			<li class='active' ><a class='menu' href='contacto.php'><span>Contacto</span></a></li>
+			<li class='active' ><a class='menu' href='contacte.php'><span>Contacte</span></a></li>
 			
 			
 		   
 		</ul>
 	</div>
 	
-	<br><br><br><br>
+	<br><br><br><br><br><br>	
 	<div id="EspaciadorLogin"></div>
-	
 	<!--######-####-######-->
 	<table id="principal">
 	<tbody>
 	<tr>
 	<td id="left">
-		<img id="WIP" src="Imagenes/WIP.jpg"></img>
-			
+		<ul>
+			<li>
+				<h2> Contacte
+			</li>	
+
+			<li>
+		<p>
+			Per a poder contactar amb mi es pot enviar un mail en cualsevol d'aquests correus:
+
+			<br>
+			oriolv1999@gmail.com
+			<br>
+			oriol.villanova@estudiants.urv.cat
+			<br>
+			contacto@oriolvillanova.com
+
+			<br>
+
+			<p>
+			També podeu contactar a travès de twitter:
+			<br>
+			<a href="https://twitter.com/oriolv99" target="_blank"> @oriolv99 </a>
+			</p>
+		</p>
+
+		</li>
+		</ul>	
 	</td>
 	<td id="right">
 				

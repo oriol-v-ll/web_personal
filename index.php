@@ -122,7 +122,7 @@ index.php v1.12
 			<li class='active'><a class='menu' href='index.php'><span>Inici</span></a></li>
 			<li><a class='menu' href='autor.php'><span>Currículum</span></a></li>
 			<li><a class='menu' href='mas_sobre_mi.php'><span>Més sobre mi</span></a></li>
-			<li class='last'><a class='menu' href='contacto.php'><span>Contacto</span></a></li>
+			<li class='last'><a class='menu' href='contacto.php'><span>Contacte</span></a></li>
 			
 			
 		   
@@ -155,9 +155,9 @@ index.php v1.12
 			Projectes
 			</h2>
 			<p>
-			M'agrada treballar en projectes de programació independents, aquesta pàgina web és un exemple d'això i de moment el més gran que he fet personalment, ja que està hostejada en un servidor personal on tota la configuració de xarxa i de muntatge del sistema ha estat feta a mà. Tambè ha estat tota la pagina web programada a mà sense utilitzar cap tipus de plantilla. El codi està disponible <a href="https://github.com/oriol-v-ll/web_personal.git"> aquí</a>, per a utilitzar-ho per a qualsevol ús. 
+			M'agrada treballar en projectes de programació independents, aquesta pàgina web és un exemple d'això i de moment el més gran que he fet personalment. Ja que està hostejada en un servidor personal on tota la configuració de xarxa i de muntatge del sistema ha estat fet a mà. Tambè ha estat tota la pagina web programada a mà sense utilitzar cap tipus de plantilla. El codi està disponible <a href="https://github.com/oriol-v-ll/web_personal.git" target="_blank"> aquí</a>, per a utilitzar-ho per a qualsevol ús. 
 				<p>
-				Tots els projectes que no tinguin cap informació confidencial els aniré publicant al meu GitHub personal on estaran a la disposició de tothom. <a href="https://github.com/oriol-v-ll"> GitHub personal</a>
+				Tots els projectes que no tinguin cap informació confidencial els aniré publicant al meu GitHub personal on estaran a la disposició de tothom. <a href="https://github.com/oriol-v-ll" target="_blank"> GitHub personal</a>
 				</p>
 			</p>
 			</li>
@@ -180,13 +180,9 @@ index.php v1.12
 	</table>
 	
 	
-	
 <footer>
 		<p class="parrafos">Oriol Villanova Llorens | www.oriolvillanova.com &copy; </p>
 </footer>
-	
-	
-	
 	
 </body>
 </html>

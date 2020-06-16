@@ -39,7 +39,7 @@ autor.php v1.4
 			<li><a class='menu' href='index.php'><span>Inici</span></a></li>
 			<li class='active'><a class='menu' href='autor.php'><span>Currículum</span></a></li>
 			<li><a class='menu' href='mas_sobre_mi.php'><span>Més sobre mi</span></a></li>
-			<li class='last'><a class='menu' href='contacto.php'><span>Contacto</span></a></li>
+			<li class='last'><a class='menu' href='contacto.php'><span>Contacte</span></a></li>
 			
 			
 		   

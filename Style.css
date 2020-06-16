@@ -1,7 +1,7 @@
 /*
 	Style.css per a la web oriolvillanova.com 
 
-	Desenvolupament en conjunt amb agene per a la web cabesafamily.es
+	Desenvolupament en conjunt amb Albert gené per a la web cabesafamily.es
 	
 
 */
@@ -21,11 +21,13 @@
 	margin-top: 50px;
 }
 
+
 /*Clase que solo se aplica en los elementos que tengan un párrafo */
 p.parrafos{
 	color: black;
 	font-size: small;
-	position: relative;
+	position: fixed;
+
 }
 
 
@@ -320,7 +322,7 @@ display: block;
 
 
 
-footer{
+.footer{
 	position: fixed;
 	left: 20px;
 	bottom: 0;
@@ -405,48 +407,5 @@ footer{
 	margin-left: 5%;
 
 }
-
-
-
-
-
-
-/*Aside del discord*/
-
-
-.dropbtn{
-	z-index:3;
-}
-
-.dropdown{
-	background:red;
-}
-.dropdown-content {
-	opacity:0.8;
-	margin:62px 40px;
-	display: none;
-	position: absolute;
-	background-color: #f1f1f1;
-	min-width: 160px;
-	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-	z-index:1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 3px;
-  text-decoration: none;
-  display: block;
-  text-align:center;
-  z-index:2;
-  
-}
-
-.dropdown-content a:hover {opacity:0.5;}
-
-.profile:hover .dropdown-content {display: block;}
-
-
-
 
 
